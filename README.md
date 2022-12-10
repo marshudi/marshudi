@@ -8,4 +8,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?marshudi=anuraghazra&theme=transparent_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?marshudi=anuraghazra&theme=dark&show_icons=true)
