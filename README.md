@@ -44,7 +44,7 @@
   <a href="https://github.com/Marshudi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marshudi&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marshudi&layout=compact&theme=nightowl&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshudi&theme=nightowl&hide_border=true" />
+
   </a>
 </p>
 
