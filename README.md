@@ -71,7 +71,7 @@
 
   <!-- Website -->
   <a href="https://marshudi.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=chrome" height="40" alt="Website" title="Visit my portfolio: marshudi.com" />
+    <img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=flat-square&logo=google-chrome&logoColor=89dceb" height="40" alt="Website" title="Visit my portfolio" />
   </a>
 
   <!-- LinkedIn -->
@@ -84,17 +84,18 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email me: MoMarshudi@outlook.com" />
   </a>
 
-  <!-- Instagram (custom reliable icon) -->
+  <!-- Instagram -->
   <a href="https://instagram.com/eMarshudi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" alt="Instagram" title="Follow on Instagram" />
   </a>
 
-  <!-- X / Twitter (custom reliable icon) -->
+  <!-- X / Twitter -->
   <a href="https://x.com/eMarshudi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white" height="40" alt="X (Twitter)" title="Follow on X" />
   </a>
 
 </p>
+
 
 ---
 
