@@ -7,7 +7,6 @@
 ---
 
 
-
 # 💡 About Me
 
 🔧 &nbsp; **IT & Data Automation Engineer @ Vodafone Oman**, building smart systems and AI-driven tools.\
@@ -64,37 +63,15 @@
 
 
 
-<!-- 🌐 Connect with Me -->
-<h2 align="center">🌐 Connect with Me</h2>
+# 🌐 Connect with Me
 
 <p align="center">
-  <!-- Website -->
-  <a href="https://marshudi.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=for-the-badge&logo=google-chrome&logoColor=89dceb" alt="Website" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/Marshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:MoMarshudi@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-X-1e1e2e?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
-  </a>
+  <a href="https://marshudi.com"><img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=flat-square&logo=Google-Chrome&logoColor=89dceb" /></a>
+  <a href="https://linkedin.com/in/momarshudi"><img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=flat-square&logo=Linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:MoMarshudi@outlook.com"><img src="https://img.shields.io/badge/-Email-1e1e2e?style=flat-square&logo=Gmail&logoColor=EA4335" /></a>
+  <a href="https://instagram.com/eMarshudi"><img src="https://img.shields.io/badge/-Instagram-1e1e2e?style=flat-square&logo=Instagram&logoColor=E4405F" /></a>
+  <a href="https://x.com/eMarshudi"><img src="https://img.shields.io/badge/-Twitter(X)-1e1e2e?style=flat-square&logo=Twitter&logoColor=1DA1F2" /></a>
 </p>
-
-
 
 ---
 
@@ -110,3 +87,4 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Overload" width="300" />
   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration" width="300" />
 </div>
+
