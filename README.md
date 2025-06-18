@@ -67,26 +67,31 @@
 <!-- 🌐 Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 10px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 10px;">
 
+  <!-- Website -->
   <a href="https://marshudi.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=chrome" height="40" alt="Website" title="Visit my portfolio: marshudi.com" />
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/Marshudi" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
   </a>
 
+  <!-- Email -->
   <a href="mailto:MoMarshudi@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email me: MoMarshudi@outlook.com" />
   </a>
 
+  <!-- Instagram (custom reliable icon) -->
   <a href="https://instagram.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" title="Follow on Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" alt="Instagram" title="Follow on Instagram" />
   </a>
 
+  <!-- X / Twitter (custom reliable icon) -->
   <a href="https://x.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" height="40" alt="X (Twitter)" title="Follow on X" />
+    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white" height="40" alt="X (Twitter)" title="Follow on X" />
   </a>
 
 </p>
