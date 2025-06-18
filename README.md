@@ -1,4 +1,4 @@
-![Marshudi](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Marshudi Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=1000&color=89dceb&background=1a1a2e00&center=true&width=500&height=75&lines=Hi%F0%9F%91%8B%2C+I'm+Mohammed+Al-Marshudi;IT+%26+Data+Automation+Engineer;Cybersecurity+%7C+Slack+%7C+Jira+%7C+Web" alt="Hello, I'm Mohammed Al-Marshudi">
@@ -6,43 +6,53 @@
 
 ---
 
-# 💡 About Me
-
-🚀 &nbsp; Data Automation Engineer @ **Vodafone Oman**, passionate about innovation and system efficiency.\
-🧠 &nbsp; Skilled in **automating IT workflows**, building **data-driven dashboards**, and implementing **AI-powered solutions**.\
-🔐 &nbsp; Cybersecurity enthusiast working on secure infrastructure and internal IT automation.\
-🧳 &nbsp; Founder of **[WebKanZ](https://webkanz.com)** – redefining travel with unique, cultural experiences.\
-📈 &nbsp; Experienced in **Slack bot development**, **Jira automation**, and business analytics.\
-🎯 &nbsp; Currently deep-diving into **LLMs**, **RAG pipelines**, and full-stack product engineering.\
-📬 &nbsp; Reach me at **MoMarshudi@outlook.com** — let’s build something awesome.
+<div align="center" style="display:flex;flex-direction:row;align-items:center;gap:12px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
+  </picture>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" />
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 💡 About Me
+
+🔧 &nbsp; **IT & Data Automation Engineer @ Vodafone Oman**, building smart systems and AI-driven tools.\
+📊 &nbsp; Expert in workflow automation, Slack bots, data pipelines, and internal dashboards.\
+🌐 &nbsp; Founder of [**WebKanZ**](https://webkanz.com) — redefining travel through local experiences.\
+🧠 &nbsp; Currently exploring LLMs, secure systems, and RAG-based AI assistants.\
+🎨 &nbsp; Occasionally working on brand design, storytelling, and business tooling.\
+📫 &nbsp; Reach me at **MoMarshudi@outlook.com** – I'm open to collaboration and projects.
+
+---
+
+# 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=89dceb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=facc15)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=00acc1)
 ![React](https://img.shields.io/badge/-React-1e1e2e?style=flat&logo=react&logoColor=61dafb)
-![Remix](https://img.shields.io/badge/-Remix-1e1e2e?style=flat&logo=remix&logoColor=fff)
+![Remix](https://img.shields.io/badge/-Remix-1e1e2e?style=flat&logo=remix&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat&logo=node.js&logoColor=7fc728)
-![Bun](https://img.shields.io/badge/-Bun-1e1e2e?style=flat&logo=bun&logoColor=fff)\
+![Bun](https://img.shields.io/badge/-Bun-1e1e2e?style=flat&logo=bun&logoColor=white)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e1e2e?style=flat&logo=postgresql&logoColor=336791)
 ![pgvector](https://img.shields.io/badge/-pgvector-1e1e2e?style=flat&logoColor=white)
 ![Slack API](https://img.shields.io/badge/-Slack%20API-1e1e2e?style=flat&logo=slack&logoColor=4a154b)
 ![Jira API](https://img.shields.io/badge/-Jira%20API-1e1e2e?style=flat&logo=jira&logoColor=0052cc)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-1e1e2e?style=flat&logo=cloudflare&logoColor=f38020)\
-![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1e1e2e?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center" style="background-color:#1a1a2e; padding: 20px;">
+<p align="center">
   <a href="https://github.com/Marshudi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marshudi&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marshudi&layout=compact&theme=nightowl&hide_border=true&exclude_repo=chatbot-ui,old-repos" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marshudi&layout=compact&theme=nightowl&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshudi&theme=nightowl&hide_border=true" />
   </a>
 </p>
@@ -87,7 +97,7 @@
 
 ---
 
-# 👁 Visitor Count
+# 🔢 Visitor Count
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Marshudi/count.svg" />
