@@ -6,16 +6,7 @@
 
 ---
 
-<div align="center" style="display:flex;flex-direction:row;align-items:center;gap:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=A+passionate+IT+Automation+Engineer+from+Oman" />
-  </picture>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="50" />
-</div>
 
----
 
 # 💡 About Me
 
