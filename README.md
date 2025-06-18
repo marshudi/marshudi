@@ -67,34 +67,33 @@
 <!-- 🌐 Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 10px;">
-
+<p align="center">
   <!-- Website -->
   <a href="https://marshudi.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=flat-square&logo=google-chrome&logoColor=89dceb" height="40" alt="Website" title="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=for-the-badge&logo=google-chrome&logoColor=89dceb" alt="Website" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/Marshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 
   <!-- Email -->
   <a href="mailto:MoMarshudi@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email me: MoMarshudi@outlook.com" />
+    <img src="https://img.shields.io/badge/-Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" alt="Instagram" title="Follow on Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 
-  <!-- X / Twitter -->
+  <!-- X (Twitter) -->
   <a href="https://x.com/eMarshudi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white" height="40" alt="X (Twitter)" title="Follow on X" />
+    <img src="https://img.shields.io/badge/-X-1e1e2e?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
-
 </p>
+
 
 
 ---
