@@ -64,14 +64,31 @@
 
 
 
-# 🌐 Connect with Me
+<!-- 🌐 Connect with Me -->
+<h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://marshudi.com"><img src="https://img.shields.io/badge/-marshudi.com-1e1e2e?style=flat-square&logo=Google-Chrome&logoColor=89dceb" /></a>
-  <a href="https://linkedin.com/in/momarshudi"><img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=flat-square&logo=Linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:MoMarshudi@outlook.com"><img src="https://img.shields.io/badge/-Email-1e1e2e?style=flat-square&logo=Gmail&logoColor=EA4335" /></a>
-  <a href="https://instagram.com/eMarshudi"><img src="https://img.shields.io/badge/-Instagram-1e1e2e?style=flat-square&logo=Instagram&logoColor=E4405F" /></a>
-  <a href="https://x.com/eMarshudi"><img src="https://img.shields.io/badge/-Twitter(X)-1e1e2e?style=flat-square&logo=Twitter&logoColor=1DA1F2" /></a>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 10px;">
+
+  <a href="https://marshudi.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=chrome" height="40" alt="Website" title="Visit my portfolio: marshudi.com" />
+  </a>
+
+  <a href="https://linkedin.com/in/Marshudi" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
+  </a>
+
+  <a href="mailto:MoMarshudi@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email me: MoMarshudi@outlook.com" />
+  </a>
+
+  <a href="https://instagram.com/eMarshudi" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" title="Follow on Instagram" />
+  </a>
+
+  <a href="https://x.com/eMarshudi" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" height="40" alt="X (Twitter)" title="Follow on X" />
+  </a>
+
 </p>
 
 ---
